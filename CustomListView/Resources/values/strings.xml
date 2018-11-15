@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="action_settings">Settings</string>
+
+  <string-array name="employeeArray">
+    <item>Ahmed</item>
+    <item>Mohammed</item>
+    <item>Aya</item>
+    <item>Jamal</item>
+    <item>Zaineb</item>
+  </string-array>
+  
+</resources>
